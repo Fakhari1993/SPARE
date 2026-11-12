@@ -74,19 +74,6 @@ Targeted edits are applied sequentially to improve the model's predictions while
 
 The edited model is evaluated to measure the effectiveness of corrections, generalization to related instances, retention of protected predictions, and unintended changes.
 
-## Evaluation Metrics
-
-The experimental evaluation considers nine metrics:
-
-- **Overall Editing Score (S)**
-- **Editing Efficacy (ES)**
-- **Ripple Generalization (RG)**
-- **Neighborhood Specificity (NS)**
-- **Forgetting Rate (FR)**
-- **Paraphrase Consistency (PC)**
-- **Generation Entropy (GE)**
-- **Damage Rate (DR)**
-- **Protect Retention (PR)**
 
 ## Usage
 
